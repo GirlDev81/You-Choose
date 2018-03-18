@@ -1,0 +1,63 @@
+.main{
+  background-image:url('/src/img/low-poly-texture-118.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: top;
+  height: 900px;
+  color: rgba(0, 0, 0, 0.82);
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 500;
+  font-size: 1.1rem;
+  padding: 20px;
+  margin-bottom: 30px;
+
+}
+
+.search-bar{
+  margin:15px;
+  text-align: left;
+}
+.logo{
+    color: red;
+    font-family: 'Rammetto One', cursive;
+
+    font-weight: 700;
+    padding: 10px;
+    font-size: 1.5rem;
+ }
+
+.search-bar input{
+  width: 65.7%;
+  font-size: 16px;
+  font-weight: 600;
+  border: 1px solid purple;
+  padding:5px;
+  color: purple;
+}
+
+.video-item img{
+  max-width: 64px;
+}
+
+.video-details .details{
+  margin-top:10px;
+  padding: 10px;
+  border: 1px solid purple;
+  border-radius: 4px;
+}
+
+.list-group-item{
+  cursor: pointer;
+  border: 1px solid purple;
+
+}
+
+.list-group-item:hover{
+  background-color:rgba(141, 94, 166, 0.35);
+}
+
+ .details{
+  background-color: rgba(118, 48, 161, 0.62);
+  border: 1px solid purple;
+  padding: 7px;
+}
